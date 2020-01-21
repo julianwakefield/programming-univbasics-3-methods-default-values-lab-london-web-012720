@@ -3,9 +3,9 @@
 
 
 
-def meal_choice(protein = "meat", veg1, veg2)
+def meal_choice(protein, veg1, veg2)
 
-  protein = tofu
+  protein = meat
   veg1 = broccoli
   veg2 = macaroni
 
